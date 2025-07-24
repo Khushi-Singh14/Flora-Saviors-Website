@@ -1,6 +1,6 @@
 # Flora-Saviors-Website
 
-Welcome to the Flora Saviors project - a nature-inspired website dedicated to protecting endangered plants and promoting environmental awareness.
+Welcome to the Flora Saviors project - a website dedicated enhance participation in the initiative taken by Flora Saviors via donation and volunteering.
 
 # About the Project
 Flora Saviors is an initiative to educate and engage people in the protection of flora through awareness campaigns, donations, and volunteering. The website acts as a digital home for our cause.
