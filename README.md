@@ -16,5 +16,5 @@ Flora Saviors is an initiative to educate and engage people in the protection of
 # Tech Stack
 -HTML5
 -CSS3
--JavaScript (optional/future use)
+-JavaScript=
 -Figma (for UI/UX design)
